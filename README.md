@@ -1,1 +1,3 @@
-# Air-General-iOS-game
+Air general is a small 2D game I made while learning Swift. It uses Apple's 2D game framework - SpriteKit.
+
+<img src="https://user-images.githubusercontent.com/32904619/59709588-1403eb80-91ff-11e9-96c9-76160937f55d.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/32904619/59709589-1403eb80-91ff-11e9-9f6c-926df8fcec9f.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/32904619/59708612-064d6680-91fd-11e9-99f4-cd068300891e.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/32904619/59708613-064d6680-91fd-11e9-930c-0241c1e6aacd.jpg" width="200" height="400" />
